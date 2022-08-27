@@ -1,4 +1,4 @@
-# #100DaysOfCode with Python course
+# #100DaysOfCode with Python 
 [![Binder](https://mybinder.org/badge.svg)](t.me/sluttyoreo)
 
 <a href="https://github.com/AiseKaise">![Python](./1.png)</a>
@@ -51,27 +51,27 @@ and much much more!
 
 ## Projects!!!
 
-Blackjack
+* Blackjack
 
-Snake Game
+* Snake Game
 
-Pong Game
+* Pong Game
 
-Auto Swipe on Tinder
+* Auto Swipe on Tinder
 
-Auto Job Applications on LinkedIn
+* Auto Job Applications on LinkedIn
 
-Automate Birthday Emails/SMS
+* Automate Birthday Emails/SMS
 
-Fully Fledged Blog Website
+* Fully Fledged Blog Website
 
-Build Your Own Public API
+* Build Your Own Public API
 
-Data Science with Google Trends
+* Data Science with Google Trends
 
-Analysing Lego Datasets
+* Analysing Lego Datasets
 
-Google App Store Analysis
+* Google App Store Analysis
 
 and much much more!
 
