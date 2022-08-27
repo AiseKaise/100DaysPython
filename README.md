@@ -1,4 +1,4 @@
 # #100DaysOfCode with Python course
-![plot](./100DaysPython/1.png)
+<a href="https://github.com/AiseKaise">![Python](./1.png)</a>
 
 
